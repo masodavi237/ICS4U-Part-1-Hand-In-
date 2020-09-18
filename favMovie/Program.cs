@@ -31,6 +31,21 @@ namespace favMovie
 
 
 
+            Console.WriteLine("D D D D       M       M ");
+            Console.WriteLine("D      D      M M   M M ");
+            Console.WriteLine("D      D      M M   M M ");
+            Console.WriteLine("D      D      M   M   M ");
+            Console.WriteLine("D      D      M       M ");
+            Console.WriteLine("D      D      M       M ");
+            Console.WriteLine("D D D D       M       M ");
+
+
+
+            Console.ReadLine();
+
+
+
+
 
             Console.ReadLine();
 
